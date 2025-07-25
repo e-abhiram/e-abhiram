@@ -27,9 +27,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abhiram b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhiram b" height="30" width="40" /></a>
-<a href="https://fb.com/abhiram b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abhiram b" height="30" width="40" /></a>
-<a href="https://instagram.com/abhirammmb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhirammmb" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhiram-b-25208a310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhiram b" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/1NBZryh5V1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Abhiram B" height="30" width="40" /></a>
+<a href="https://www.instagram.com/abhirammmb?igsh=bmJtZmttM3B2ZG1n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhirammmb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
